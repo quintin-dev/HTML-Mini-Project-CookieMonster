@@ -20,7 +20,7 @@ A simple portfolio website for your favourite cookie monster designed with basic
 
 ## Live Demo
 
-[Cookie Monster Portfolio](https://eddking-qs.github.io/HTML-Mini-Project-CookieMonster/)
+[Cookie Monster Portfolio](https://quintin-dev.github.io/HTML-Mini-Project-CookieMonster/)
 
 ## Disclaimer
 
