@@ -1,4 +1,4 @@
-# HTML-Mini-Project-CookieMonster
+# HTML Mini Projects - CookieMonster
 
 ## Description
 
